@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Facebook -->
+    <string name="facebook_app_id">104584793250763</string>
+
+
+</resources>
